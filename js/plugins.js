@@ -15,12 +15,5 @@ var $plugins =
 {"name":"BattleVoiceMZ","status":false,"description":"アクターの戦闘時の行動にボイスSEを設定します。","parameters":{"ON switch ID":"1002","volume":"90","pitch":"100","pan":"0","Battle Voice Name at Option":"バトルボイス"}},
 {"name":"CommonEventStepRegion","status":true,"description":"タイルを踏んだ時、リージョンIDに応じてコモンイベントを起動","parameters":{}},
 {"name":"wasdKeyMZ","status":true,"description":"wasd移動に対応させます。","parameters":{}},
-{"name":"MenuSubMembersMZ","status":true,"description":"メニュー画面と隊列の最後尾に同行者を表示します","parameters":{"subMemberIdVal1":"13","subMemberIdVal2":"0","subMemberIdVal3":"0","subMemberIdVal4":"0","subMemberText":"同行者","displayIfNone":"false","subMemberNoneText":"なし","DisplayOnMap":"true","additionalFollower":"5"}},
-{"name":"MAT_Levelupse","status":false,"description":"ver1.00 レベルアップSE","parameters":{"isplaytiming":"false","levelupsename":"Wind2","levelupseparam":"[80, 100, 0]"}},
-{"name":"AutoPluginUpdater","status":false,"description":"プラグイン自動更新プラグイン v0.1.1","parameters":{"BackupDirName":"backup","PluginUrl":"","DisableUpdatePlugin":"","WriteUrlLog":"true"}},
-{"name":"PluginCommonBase","status":false,"description":"パラメータ解析を提供する共通基盤です","parameters":{}},
-{"name":"AlchemySystem","status":true,"description":"アイテム合成プラグイン v1.0.1","parameters":{"EnabledMenuAlchemy":"true","EnabledAlchemySwitchId":"1921","EnabledGoldWindow":"true","DisplayKeyItemCategory":"false","MaxNumMakeItem":"999","MaxMaterials":"3","MakeItemSeFileName":"Magic3","MakeItemSeVolume":"90","MakeItemSePitch":"100","MakeItemSePan":"0","MenuAlchemyText":"錬金術","NeedMaterialText":"必要素材：","NeedPriceText":"必要経費：","TargetItemText":"生成アイテム："}},
-{"name":"SoR_EnemySymbolEncounter_MZ","status":true,"description":"＜シンボルエンカウント総合＞","parameters":{"IsFollowerAttacked":"true","InvincibleTime_AfterBattle":"0","EnemySearchRange_scale":"2.0","SymbolKeepOut_RegionID":"-1","BalloonID_PlayerDetected":"-1","SE_PlayerDetected":"","BalloonID_PlayerFled":"-1","SE_PlayerFled":"","BattleBGM_surprised":"MVre_Battle1","Use_MenuSubCommandMap":"false","InvincibleStyle_Flash":"false","InvincibleStyle_Opaque":"false","InvincibleStyle_Blend":"0"}},
-{"name":"Mano_CurrencyUnit","status":true,"description":"変数やアイテムを消費して購入できるショップが作れます。\r\n競合率・中ぐらい","parameters":{}},
-{"name":"GameInactiveNotStop","status":true,"description":"ゲームウィンドウが非アクティブでもゲームを止めない。","parameters":{}}
+{"name":"MenuSubMembersMZ","status":true,"description":"メニュー画面と隊列の最後尾に同行者を表示します","parameters":{"subMemberIdVal1":"13","subMemberIdVal2":"0","subMemberIdVal3":"0","subMemberIdVal4":"0","subMemberText":"同行者","displayIfNone":"false","subMemberNoneText":"なし","DisplayOnMap":"true","additionalFollower":"5"}}
 ];
