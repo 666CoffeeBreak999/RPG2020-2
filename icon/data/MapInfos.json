@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"ＯＰあるいはシステム管理","order":4,"parentId":0,"scrollX":1198.5,"scrollY":1054.5},
+{"id":1,"expanded":true,"name":"ＯＰあるいはシステム管理","order":4,"parentId":0,"scrollX":1198,"scrollY":1054},
 {"id":2,"expanded":true,"name":"西欧","order":55,"parentId":23,"scrollX":481.5,"scrollY":314.5},
-{"id":3,"expanded":false,"name":"OP","order":5,"parentId":1,"scrollX":481.5,"scrollY":283.5},
+{"id":3,"expanded":false,"name":"OP","order":5,"parentId":1,"scrollX":816,"scrollY":624},
 {"id":4,"expanded":true,"name":"ポーラの監獄","order":74,"parentId":8,"scrollX":989.5,"scrollY":567.5},
 {"id":5,"expanded":false,"name":"監獄地下","order":75,"parentId":4,"scrollX":958.5,"scrollY":795.5},
 {"id":6,"expanded":false,"name":"ポーラ","order":76,"parentId":4,"scrollX":718.5,"scrollY":633.5},
