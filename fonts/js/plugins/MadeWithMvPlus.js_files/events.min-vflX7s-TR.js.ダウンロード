@@ -1,2 +1,0 @@
-define(["require","exports","external/eventemitter3"],function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.VideoAnnotationsEvents=new n});
-//# sourceMappingURL=events.min.js-vfl-tWwU_.map
