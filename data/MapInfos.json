@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":false,"name":"本館2階","order":35,"parentId":3,"scrollX":816,"scrollY":640},
 {"id":7,"expanded":false,"name":"本館地下","order":36,"parentId":3,"scrollX":832,"scrollY":944},
 {"id":8,"expanded":false,"name":"マレフィー側","order":40,"parentId":2,"scrollX":748.8,"scrollY":453},
-{"id":9,"expanded":true,"name":"ゲオルクの研究所","order":37,"parentId":1,"scrollX":442.79999999999995,"scrollY":765},
+{"id":9,"expanded":true,"name":"ゲオルクの研究所","order":37,"parentId":1,"scrollX":442.79999999999995,"scrollY":292.2},
 {"id":10,"expanded":true,"name":"メフィストの研究所","order":38,"parentId":9,"scrollX":1048,"scrollY":1200},
 {"id":11,"expanded":true,"name":"クエスト処理","order":1,"parentId":0,"scrollX":442.79999999999995,"scrollY":322.2},
 {"id":12,"expanded":false,"name":"開始時","order":6,"parentId":11,"scrollX":593.25,"scrollY":440.25},
@@ -64,5 +64,5 @@ null,
 {"id":62,"expanded":false,"name":"道具屋","order":64,"parentId":37,"scrollX":553.5,"scrollY":438.75},
 {"id":63,"expanded":false,"name":"魔法屋","order":43,"parentId":54,"scrollX":553.5,"scrollY":377.25},
 {"id":64,"expanded":false,"name":"教会","order":65,"parentId":37,"scrollX":553.5,"scrollY":377.25},
-{"id":65,"expanded":false,"name":"オープニング","order":3,"parentId":33,"scrollX":442.79999999999995,"scrollY":301.8}
+{"id":65,"expanded":false,"name":"オープニング","order":3,"parentId":33,"scrollX":442.79999999999995,"scrollY":311.4}
 ]
