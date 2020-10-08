@@ -17,5 +17,6 @@ var $plugins =
 {"name":"SimpleMsgSideViewMZ","status":true,"description":"サイドビューバトルでスキル/アイテムの名前のみ表示します。","parameters":{"displayAttack":"false","displayIcon":"true"}},
 {"name":"PermanentState","status":true,"description":"ver1.00/戦闘不能や全回復で解除されないステートを設定できるようにします。","parameters":{}},
 {"name":"TorigoyaMZ_EnemyHpBar","status":true,"description":"敵にHPバーを表示プラグイン (v.1.2.0)","parameters":{"base":"","basePosition":"top","basePosX":"0","basePosY":"0","customize":"","customizeCondition":"always","customizeGaugeWidth":"100","customizeGaugeHeight":"10","customizeDrawLabel":"true","customizeLabelWidth":"20","customizeLabelFontSize":"16","customizeValueFontSize":"20","customizeMaskHpValue":"?????"}},
-{"name":"MAT_Levelupse","status":true,"description":"ver1.00 レベルアップSE","parameters":{"isplaytiming":"true","levelupsename":"Up4","levelupseparam":"[80, 100, 0]"}}
+{"name":"MAT_Levelupse","status":true,"description":"ver1.00 レベルアップSE","parameters":{"isplaytiming":"true","levelupsename":"Up4","levelupseparam":"[80, 100, 0]"}},
+{"name":"WeatherOnBattle","status":true,"description":"戦闘中も天候アニメを表示します","parameters":{}}
 ];
